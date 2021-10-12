@@ -54,5 +54,23 @@ console.log("Su promedio es "+p);
 
 ![Ejercicio 6](https://github.com/mariapaulagalvisv1/taller_js/blob/main/images/ejercicio_6.png)
 
+Ejercicio 7
+var num1= prompt("ingresar el número");
+var num1= parseInt(num1) - (parseInt(num1) * 0,15);
+console.log("El 15% es: "+num1);
+
+![Ejercicio 7](https://github.com/mariapaulagalvisv1/taller_js/blob/main/images/ejercicio_7.png)
+
+Ejercicio 8
+var nom1 = prompt("Ingresar palabra 1");
+var nom2 = prompt("Ingresar palabra 2");
+var conca = nom1+" "+nom2;
+console.log(conca);
+
+![Ejercicio 8](https://github.com/mariapaulagalvisv1/taller_js/blob/main/images/ejercicio_8.png)
+
+Ejercicio 9
+
+
 
 ```
